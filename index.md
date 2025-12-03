@@ -1,7 +1,7 @@
 
 # Miguel-Angel Gonzalez's Portfolio
 
-My name is Miguel-Angel Gonzalez. I am a computer science major at CSUF and I plan on graduating in 2029.
+This is my home page! My name is Miguel-Angel Gonzalez. I am a student at CSUF and my major is computer science. I plan to graduate in 2029.
 
 ## Favorite CPSC 120L Labs
 
